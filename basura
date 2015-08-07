@@ -1,0 +1,24 @@
+	//obten la hora actual
+	//function sleep(milloseconds){
+		//var startTime = new Date().getTime();
+				//atasca la cpu
+		//while(new Date().getTime()< startTime + milloseconds);
+	//}
+	//sleep(10000);
+	//return"hola iniciar"
+//}
+
+
+
+
+'<meta http-equiv="Content-Type" content="text/html; 
+        charset=UTF-8" />'+
+
+
+
+
+
+        //response.writeHead(200, {"content-type": "text/html"});
+		//var content = route(Handle,pathname)
+	//response.write(content);
+	//response.end();
